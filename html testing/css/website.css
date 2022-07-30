@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: blue;
+
+}
+h2{
+    color:aqua;
+}
+.title{color: blueviolet;}
+
+#border {
+    border: 5px dashed blue;
+}
+p{color: brown;}

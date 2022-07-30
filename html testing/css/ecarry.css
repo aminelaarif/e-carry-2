@@ -1,0 +1,36 @@
+div {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10x;
+    padding-bottom: 10px;
+    border: 10px dashed red;
+    width: max-content;
+}
+
+h1 {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    color: blueviolet;
+}
+
+.title {
+    border: 10px dashed black;
+}
+
+.clr {
+    color: aqua;
+}
+
+.opt {
+    color: blue;
+}
+body{background-image:url(../imgs/leblanc-league-of-legends-league-of-legends-riot-games-dark-hd-wallpaper-preview.jpg);
+width: auto;}
